@@ -1,7 +1,7 @@
 # Hello, I'm Madelyn
 <a href="https://www.linkedin.com/in/madelyn-becker-aa37811b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent cybersecurity graduate with a desire to continuously keep learning and try new things and solve any challenges I come across.  
+I am a recent cybersecurity graduate who continuously keeps learning and trying new things.  I find fulfillment in solving any challenges I come across.  
 
 ## Objective
 
